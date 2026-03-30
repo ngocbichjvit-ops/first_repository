@@ -1,0 +1,1 @@
+@keyframes stroke{100%{stroke-dashoffset:0}}@keyframes scale{0%,100%{transform:none}50%{transform:scale3d(1.1,1.1,1)}}@keyframes fill{100%{box-shadow:inset 0 0 0 30px #7ac142}}@keyframes dash{0%{stroke-dashoffset:210}75%{stroke-dashoffset:-220}100%{stroke-dashoffset:-205}}
